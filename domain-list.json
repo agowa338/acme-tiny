@@ -1,0 +1,10 @@
+[
+  {
+    "Domain": "contoso.com",
+    "Subdomains": [ "", "www", "mail" ]
+  },
+  {
+    "Domain": "example.com",
+    "Subdomains": [ "", "www" ]
+  }
+]
